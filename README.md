@@ -41,3 +41,6 @@ sui client switch --address <your_slush_address> #switch
 sui client active-address #confirm
 ```
 - we have the config files in ```~/.sui/sui_config/```
+
+---
+### frontend
